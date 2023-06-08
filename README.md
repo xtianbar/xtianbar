@@ -42,13 +42,16 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://raw.githubusercontent.com/xtianbar/xtianbar/main/programmer.gif" alt="Coding gif" />
+ <img align="right" width="300" src="https://raw.githubusercontent.com/xtianbar/xtianbar/main/programmer.gif" alt="Coding gif" />
  
  ❤️ &emsp; Love to writing code and learning new features from everyone<br/><br/>
  📧 &emsp; You can reach me here anytime: benedictramirez78@gmail.com<br/><br/>
 
 </p>
 
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
@@ -70,6 +73,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
+
+## Check my repositories
 
 <p align="left">
   <a href="https://github.com/xtianbar?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
