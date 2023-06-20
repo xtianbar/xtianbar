@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello There!, I am
-                <b><a target="_blank" href="https://xtianbar.github.io/portfolio/">Christian Benedict A. Ramirez</a></b>
+                <b><a target="_blank" href="https://xtianbar.vercel.app/">Christian Benedict A. Ramirez</a></b>
         </samp>
 </h3>
 
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
- <a href="https://xtianbar.github.io/portfolio/" target="blank">
+ <a href="https://xtianbar.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="xtianbar" />
  </a>
  <a href="https://www.linkedin.com/in/xtianbar/" target="_blank">
